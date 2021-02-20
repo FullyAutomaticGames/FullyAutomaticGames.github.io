@@ -1,0 +1,17 @@
+body {
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+background-color:rgb(35,35,35);
+font-family: monospace;
+color: red;
+}
+
+p {
+font-size: 20px;	
+}
+
+a {
+color: blue;	
+}

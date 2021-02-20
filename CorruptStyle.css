@@ -1,0 +1,21 @@
+body {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color:rgb(35,35,35);
+    color: rgb(180, 0, 0);
+    font-family: monospace;
+}
+
+p {
+    font-size: 20px;
+}
+
+a {
+    color: blue;
+}
+
+Corrupt_Header {
+    float: left;
+}
